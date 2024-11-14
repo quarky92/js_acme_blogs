@@ -6,7 +6,7 @@
 
 _Once you are working with your own copy of the project on Glitch..._
 
-**Follow the directions available in Blackboard** 
+**Follow the directions available in Blackboard**
 
 _DO NOT CHANGE any of the pre-existing code. Your code only goes in main.js._
 
